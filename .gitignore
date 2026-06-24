@@ -1,0 +1,8 @@
+```
+# Configuration and data files
+*.json
+*.xml
+*.txt
+*.html
+*.md
+```
